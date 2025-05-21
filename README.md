@@ -3,7 +3,7 @@
 
 - 💬 Ask me about **Android,Java, Kotlin**
 
-- 📫 How to reach me **naeem0313@gmail.com**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
