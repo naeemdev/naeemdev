@@ -80,7 +80,7 @@ I'm a dedicated and results-driven **Android Developer** with a knack for creati
 
 ### ✨ Fun Fact
 
-> "I'm fueled by ☕ coffee and a relentless passion for clean code. When not coding, I enjoy exploring tech blogs and hiking."
+> "I'm fueled by ☕ coffee and a relentless passion for clean code. When not coding, I enjoy exploring tech blogs. When I’m not hacking away, I’m probably dreaming of my next nap."
 
 ---
 
