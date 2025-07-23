@@ -1,6 +1,6 @@
 
 <div align="center">
-  <a href="https://github.com/YOUR_GITHUB_USERNAME">
+  <a href="https://github.com/naeemdev">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=24&color=36BCF7¢er=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Muhammad+Naeem+👋;A+Passionate+Android+Developer;Always+Learning+and+Creating" alt="Typing SVG" />
   </a>
 </div>
